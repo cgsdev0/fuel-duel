@@ -1,0 +1,11 @@
+
+Free Unity Asset Store assets used:
+
+Plane asset 		-- https://www.assetstore.unity3d.com/en/#!/content/56690
+Skybox			-- https://www.assetstore.unity3d.com/en/#!/content/21737
+Unity3D Standard Assets -- https://www.assetstore.unity3d.com/en/#!/content/32351
+
+Other assets used:
+
+InControl library 	-- https://github.com/pbhogan/InControl
+Orbit.mp3		-- Special thanks to my friend AquaNova (  http://www.aquanova-mp.com/  )
